@@ -1,5 +1,7 @@
 # Mesg 
 
+[![Join the chat at https://gitter.im/zanjs/mesg.js](https://badges.gitter.im/zanjs/mesg.js.svg)](https://gitter.im/zanjs/mesg.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 桌面消息通知中间件
 
 
